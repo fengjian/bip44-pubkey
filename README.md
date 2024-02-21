@@ -1,2 +1,2 @@
 # bip44-pubkey
-Introducing a project implemented in Go that focuses on deriving public keys corresponding to BIP44 mnemonic phrases.
+Introducing a project implemented in Go that focuses on deriving public keys corresponding to BIP44 mnemonic phrases. This project serves as a useful tool for generating public keys from BIP44 mnemonic phrases, which are commonly used in hierarchical deterministic wallets. With this implementation, developers can easily derive public keys from mnemonic phrases and integrate them into their cryptocurrency applications or wallet solutions. Explore this project to simplify the process of working with BIP44 mnemonic phrases and enhance the security of your cryptocurrency systems.
